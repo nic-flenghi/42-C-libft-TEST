@@ -22,5 +22,7 @@ void print_result (int result);
 void	test_strchr(void);
 void	test_strrchr(void);
 void	test_strnstr(void);
+void	test_atoi(void);
+void	test_split(void);
 
 #endif

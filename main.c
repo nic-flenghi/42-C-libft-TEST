@@ -27,7 +27,9 @@ void print_result (int result)
 
 int	main(void)
 {
-	//test_strchr();
-	//test_strrchr();
-	test_strnstr();
+	// test_strchr();
+	// test_strrchr();
+	// test_strnstr();
+	// test_atoi();
+	test_split();
 }
