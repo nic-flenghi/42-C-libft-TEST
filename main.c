@@ -32,4 +32,5 @@ int	main(void)
 	// test_strnstr();
 	// test_atoi();
 	test_split();
+	// system("leaks $0");
 }
